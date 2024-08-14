@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tree-app/static/css/main.0dcf2d42.css",
+    "main.js": "/tree-app/static/js/main.1409d325.js",
+    "static/js/453.d3372f30.chunk.js": "/tree-app/static/js/453.d3372f30.chunk.js",
+    "index.html": "/tree-app/index.html",
+    "main.0dcf2d42.css.map": "/tree-app/static/css/main.0dcf2d42.css.map",
+    "main.1409d325.js.map": "/tree-app/static/js/main.1409d325.js.map",
+    "453.d3372f30.chunk.js.map": "/tree-app/static/js/453.d3372f30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcf2d42.css",
+    "static/js/main.1409d325.js"
+  ]
+}
