@@ -56,7 +56,7 @@ const TreeActionModal = ({open, handleClose, handleAction, modalType, nodeName, 
                         />
                     )}
                     {errorMessage ? (
-                        <Typography color="error" variant="body2" sx={{mt: 1}}>
+                        <Typography color="error" variant="body1" sx={{mt: 1}}>
                             {errorMessage}
                         </Typography>
                     ) : (
