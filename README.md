@@ -1,5 +1,5 @@
 # Demo
-You can view the demo of the project on [gh-pages]([https://github.com/facebook/create-react-app](https://yahorkichuk.github.io/tree-app/)).
+You can view the demo of the project on [gh-pages](https://yahorkichuk.github.io/tree-app/).
 
 # Getting Started with Create React App
 
